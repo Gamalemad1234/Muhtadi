@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460419570568",
+    "project_id": "muhtadi-57420",
+    "storage_bucket": "muhtadi-57420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460419570568:android:94e510f50cbbff0462f83d",
+        "android_client_info": {
+          "package_name": "com.example.muhtadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTotS8UJ-h3wzUY--T9EgCk8brG8EcIAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
